@@ -14,7 +14,7 @@ Este projeto implementa um sistema de monitoramento ambiental em três fases evo
 ![Circuito Fase 1](./1-Simulador_Nivel_Agua/sensor-basico.png)
 
 #### 💻 Código
-[Ver código completo](./1-Simulador_Nivel_Agua/basico.ino)
+[Ver código completo](./1-Simulador_Nivel_Agua/index.ino)
 
 #### ⚡ Funcionalidades
 - Medição de nível de água via sensor ultrassônico
@@ -32,7 +32,7 @@ Este projeto implementa um sistema de monitoramento ambiental em três fases evo
 ![Circuito Fase 2](./2-Simulador_Monitoramento/sensor-ambiental.jpeg)
 
 #### 💻 Código
-[Ver código completo](./2-Simulador_Monitoramento/avancado.ino)
+[Ver código completo](./2-Simulador_Monitoramento/index.ino)
 
 #### ⚡ Funcionalidades
 - Monitoramento multi-parâmetros:
